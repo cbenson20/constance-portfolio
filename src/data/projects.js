@@ -297,8 +297,8 @@ export const moreProjects = [
       "React components · Responsive layout · Accessibility · Professional presentation",
     image: '/screenshots/portfolio-hero.png',
     links: {
-      project: "#", // Replace with your live portfolio URL
-      github: "#", // Replace with your GitHub repo URL
+      project: "https://constance-portfolio.vercel.app/",
+      github: "https://github.com/cbenson20/constance-portfolio",
     },
     hasCaseStudy: false,
   },
