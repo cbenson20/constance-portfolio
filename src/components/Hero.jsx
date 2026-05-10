@@ -25,15 +25,11 @@ export default function Hero() {
         </h1>
 
         <p className="hero-subtitle">
-          Software Developer focused on Backend, APIs &amp; Automation
-        </p>
-
-        <p className="hero-positioning">
-          Software Developer helping teams build backend features, connect APIs, and improve workflow automation.
+          Software Developer focused on backend, APIs, automation, and web applications.
         </p>
 
         <p className="hero-intro">
-          I build practical web and software applications with a focus on backend logic, API integration, automation, databases, and clean user experiences. I enjoy connecting systems, organizing data, and turning real business needs into useful digital solutions.
+          I build web and mobile applications with a focus on backend features, APIs, databases, and clean interfaces. I like working on projects where I can connect different parts of a system and make the final product easier to use.
         </p>
 
         {/* Recruiter summary */}

@@ -9,7 +9,7 @@ const services = [
     icon: '🔗',
     title: 'API Integration',
     description:
-      'I connect applications to REST and GraphQL APIs, handle data flow, support backend integration logic, and help ensure reliable communication between systems.',
+      'I connect applications to REST and GraphQL APIs, handle data flow, and support backend integration logic to help different parts of an application work together.',
   },
   {
     icon: '🤖',
@@ -21,7 +21,7 @@ const services = [
     icon: '🌐',
     title: 'Web Application Development',
     description:
-      'I build responsive, user-friendly web applications with clean interfaces, organized code structure, and practical functionality.',
+      'I build responsive web applications with clean interfaces, organized code structure, and features people can actually use.',
   },
 ]
 

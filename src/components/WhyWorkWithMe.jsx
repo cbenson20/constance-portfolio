@@ -3,7 +3,7 @@ const qualities = [
   'Teachable and open to feedback',
   'Clear written and verbal communication',
   'Focused on practical, working software',
-  'Strong collaboration and team mindset',
+  'Works well with a team',
   'Cares about code quality and clean structure',
 ]
 
@@ -19,7 +19,7 @@ export default function WhyWorkWithMe() {
         <div className="why-inner">
           <div className="why-quote">
             <p>
-              I bring a mix of technical skill, creativity, curiosity, and strong communication. I'm consistent, teachable, and serious about building useful software. I care about clean code, practical solutions, clear documentation, and contributing positively to a team.
+              I'm reliable, teachable, and serious about doing good work. I care about writing code that is clear, organized, and easy to maintain. I also communicate well, ask questions when I need clarity, and enjoy working with a team to get things done properly.
             </p>
           </div>
 

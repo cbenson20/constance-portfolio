@@ -7,7 +7,7 @@ export const experiences = [
     period: 'Jun 2025 – Sep 2025',
     type: 'Internship',
     description:
-      'Built and supported full-stack development tasks using React, TypeScript, APIs, and automation tools. Contributed to proof-of-concept features, improved front-end structure, tested API integrations, and supported internal development workflows using Git and modern development practices.',
+      'Built and supported full-stack development tasks using React, TypeScript, and APIs. Contributed to proof-of-concept features, improved front-end structure, tested API integrations, and worked with Git workflows, API testing, and front-end structure improvements as part of the development process.',
   },
   {
     id: 'oak-pensions',

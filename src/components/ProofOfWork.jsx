@@ -40,7 +40,7 @@ export default function ProofOfWork() {
           <span className="section-label">Credibility</span>
           <h2 className="section-title">Proof of Work</h2>
           <p className="section-subtitle">
-            Real projects, real clients, and real development experience — not just a list of technologies.
+            A quick look at the projects and experience behind my skills.
           </p>
         </div>
 
